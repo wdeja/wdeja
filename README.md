@@ -1,5 +1,12 @@
-### Hi there 👋
-
+# I'm Deja (like 'deja vi' but with 'w')
+### a fullstack web developer and hobbiest gamer from Gdansk, PL
+- 🌱 I’m currently working in Python and Django
+  
+- 👨‍💻 <a href="wdeja.pl">See what I've done
+  
+- 📫 How to reach me wdeja05@gmail.com
+  
+- 📄 Know about my experiences on my <a href="https://docs.google.com/document/d/1u48zUex39AH35ZHt4s-HchDSWFr8Sm9gu290Hu9vtwM/edit?usp=sharing">resume
 <!--
 **wdeja/wdeja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
