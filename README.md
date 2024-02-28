@@ -1,4 +1,4 @@
-# <p align="center">I'm Deja (like 'deja vu' but with 'w')
+# <p align="center">I'm Deja (like 'deja vu' but with a 'w')
 ### <p align="center">a fullstack web developer and hobbiest Squash player from Gdansk, PL
 - 🌱 I’m currently working in Python and Django
   
