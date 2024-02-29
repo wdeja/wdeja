@@ -8,11 +8,13 @@
   
 - 📄 Know about my experiences on my <a href="https://docs.google.com/document/d/1u48zUex39AH35ZHt4s-HchDSWFr8Sm9gu290Hu9vtwM/edit?usp=sharing">resume
 
+
+ ##
+  Contributing
 <!--
   ### Connect with me:
 
-  ##
-  Contributing
+ 
 
 
 
