@@ -2,7 +2,7 @@
 ### <p align="center">a fullstack web developer and hobbiest Squash player from Gdansk, PL
 - 🌱 I’m currently working in Python and Django
   
-- 👨‍💻 <a href="https://wdeja.pl">See what I've done
+<!-- - 👨‍💻 <a href="https://wdeja.pl">See what I've done  -->
   
 - 📫 How to reach me wdeja05@gmail.com
   
